@@ -1,0 +1,9 @@
+#card{
+    display: grid;
+    align-content: center;
+}
+
+.card{
+    width: 88%;
+    margin-left: 5em;
+}
